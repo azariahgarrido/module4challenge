@@ -1,0 +1,73 @@
+header {
+    background-color: greenyellow;
+    color: black;
+    text-align: left;
+}
+
+#time {
+    text-align: right;
+    font-size: 20px;
+}
+
+a {
+    color: black;
+}
+
+a:hover {
+    color: white;
+    font-size: 20px;
+}
+
+#start {
+    text-align: center;
+    background-color: black;
+    color: greenyellow;
+}
+
+.areyou {
+    font-size: 50px;
+}
+
+#button {
+    color: black;
+}
+
+#quiz {
+    background-color: black;
+    text-align: center;
+}
+
+.firstQ {
+    text-align: center;
+    font-size: 30px;
+    color: greenyellow;
+}
+
+#quizTwo {
+    background-color: black;
+    text-align: center;
+}
+
+.secondQ {
+    text-align: center;
+    font-size: 30px;
+    color: greenyellow;
+}
+
+#quizThree {
+    background-color: black;
+    text-align: center;
+}
+
+.thirdQ {
+    text-align: center;
+    font-size: 30px;
+    color: greenyellow;
+}
+
+#final {
+    background-color: black;
+    color: greenyellow;
+    text-align: center;
+    font-size: 50px;
+}
